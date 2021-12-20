@@ -1,0 +1,14 @@
+div{
+    border: black 3px solid;
+}
+
+p.principal{
+    text-align: center;
+}
+
+p.texto{
+    text-align: center;
+    font-size: 1.4rem;
+    color:cornflowerblue;
+    font-family: Helvetica, Arial, sans-serif;
+}
